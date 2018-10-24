@@ -5,10 +5,9 @@
 The docker image comes with the following installed packages
 
   - Python Version: 3.6 
-  - Tensorflow - 1.7
-  - Tensorflow Object detection and its dependencies
+  - Tensorflow GPU (latest)
   - Keras (latest)
-  - Numpy 1.13.3
+  - Numpy (latest)
   - Scipy (latest)
   - Sklearn (latest)
   - Open CV (latest)
